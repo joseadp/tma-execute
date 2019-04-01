@@ -1,3 +1,5 @@
+*This repository is DEPRECATED! The development continues in the [ATMOSPHERE project](https://github.com/eubr-atmosphere/tma-framework-e/tree/master/development/executor)*
+
 # tma-execute
 
 This project aims to:
